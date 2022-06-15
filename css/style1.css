@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.khoimau{
+    padding: 20px;
+}
+.khoimau1{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: rgb(102, 22, 177);
+}
+.khoimau2{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: brown;
+}
+.khoimau3{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: bisque;
+}
+.khoimau4{
+    width: 50px;
+    height: 50px;
+    margin: 10px;
+    background-color: rgb(22, 20, 17);
+}
+.row1{
+    border-bottom: black solid 1px;
+    padding: 60px;
+}
+.row{
+    background-color: rgb(208, 190, 212);
+}
+.row2{
+    text-align: center;
+    padding: 40px;
+}
+.theul{
+  display: block;
+  margin-left: 70px;
+}

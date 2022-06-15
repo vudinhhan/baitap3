@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.card{
+    padding: 50px;
+}
+.texth1{
+    margin-bottom: 30px;
+    font-weight: bold;
+}
+.textdiv{
+    line-height: 30px;
+}
